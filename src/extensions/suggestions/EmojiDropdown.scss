@@ -1,0 +1,14 @@
+.EmojiDropdownItem {
+    display: flex;
+    align-items: center;
+    height: inherit;
+
+    .emoji {
+        width: 20px;
+        height: 20px;
+    }
+
+    .shortcode {
+        margin-left: 5px;
+    }
+}
